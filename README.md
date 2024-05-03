@@ -17,7 +17,7 @@ The "autoexec" in "autoexec.cfg" stands for “automatic execution”, which mea
 
 ## Installation
 
-Copy all of the files from this repository except for "LAUNCH_OPTIONS.txt" and paste them into your Counter-Strike 2 configuration directory located here:   
+Copy all of the files from this repository except for "launch_options.txt" and paste them into your Counter-Strike 2 configuration directory located here:   
 
 `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`   
 
