@@ -1,0 +1,1 @@
+-nojoy -console -high -allow_third_party_software -forcenovsync +fps_max 999 +violence_hblood 0 +cl_forcepreload 1 +r_dynamic 0 +exec autoexec.cfg
