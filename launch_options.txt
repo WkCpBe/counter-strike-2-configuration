@@ -1,1 +1,1 @@
--nojoy -console -high -w 1920 -h 1440 -windowed -noborder -allow_third_party_software -forcenovsync +fps_max 0 +violence_hblood 0 +cl_forcepreload 1 +r_dynamic 0 +exec autoexec.cfg
+-nojoy -console -high -w 1920 -h 1440 -windowed -noborder -allow_third_party_software -forcenovsync -noforcemaccel -noforcemspd -noforcemparms +fps_max 0 +violence_hblood 0 +cl_forcepreload 1 +r_dynamic 0 +exec autoexec.cfg
